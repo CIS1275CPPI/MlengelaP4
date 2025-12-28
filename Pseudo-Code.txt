@@ -1,0 +1,38 @@
+Pseudo code for Project number Four. 
+Date: October 27 2021. 
+
+"Function.h"
+
+//Get void WriteHeader();
+//Get void ShowRules();
+//Get double EnterYourBet();
+//Get string AskForName();
+//Get bool MakeYourPlay();
+//Get int ThrowDice();
+//Get bool PlayPointRound(int dice);
+//Get bool DoAnother();
+//Get void SayGoodbyeToUser();
+//Get double UpdateBalance(bool didWin, double bet);
+//Get void DisplayResultsToUser();
+
+"Functions.cpp"
+
+//Display the header that tells the user what this program does;
+//Set and dislay the rules of the Craps Game;
+//Ask for the user's bet;
+//Get the user throw dice;
+//User to throw dice to play the game that returns sum of the two dices thrown;
+//Get the user throw dice until the point is made or 7 hit that returns true for win and false for a loss;
+//Keep track of the player's balance;
+
+
+"MlengelaP4.cpp"
+
+//Declare Functions Prototype;
+//start a do-while loop
+      //Ask for the player's name;
+      //Ask for the user's bet;
+      //Track the player's balance in $;
+      //Ask the user to do again;
+// Display results;
+//Say goodbye to user and thank them; 
