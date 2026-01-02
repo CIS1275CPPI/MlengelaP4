@@ -50,5 +50,9 @@ Then say thank you and goodbye.
 | __double__        | UpdateBalance     | (bool didWin, double bet)| Keep track of the player's balance                                                              |
 
 # Sources:
+  * [Functions](https://www.mygreatlearning.com/blog/function-in-c/)
+  * [Random Numbers](https://www.geeksforgeeks.org/cpp/rand-and-srand-in-ccpp/)
+  * [Stringstream](https://www.geeksforgeeks.org/cpp/stringstream-c-applications/)
+  * [Precision](https://en.cppreference.com/w/cpp/io/manip/setprecision.html)
 # Usage:
 # Contributions: 
