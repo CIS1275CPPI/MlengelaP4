@@ -56,3 +56,4 @@ Then say thank you and goodbye.
   * [Precision](https://en.cppreference.com/w/cpp/io/manip/setprecision.html)
 # Usage:
 # Contributions: 
+I welcome contributions to the program! Who knows? It might not run on the user's end. If you have any suggestions, bug reports, or any kind of feature requests, please contact me or submit a pull request.
